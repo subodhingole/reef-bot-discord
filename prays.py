@@ -1,0 +1,3 @@
+pray=['https://i.pinimg.com/originals/7c/0a/84/7c0a84371e7b23c04bb2f4d97315ae74.gif','https://c.tenor.com/TX04b7YAOl8AAAAM/please-please-god.gif','https://i.pinimg.com/originals/f5/16/cf/f516cf0b3fa26e12e2ffbb3ce3ea962f.gif','https://cdn.discordapp.com/attachments/899202565043019848/901858235332583454/114181.gif','https://c.tenor.com/d8vq5hthkAoAAAAC/rimuru-tempest-rimuru.gif','https://pa1.narvii.com/6548/a8355291a9b645189dc4d64db1c6d5efd93f7313_hq.gif','https://c.tenor.com/spSmJoZS3U4AAAAi/please-mafumafu.gif']
+
+listings = []
